@@ -1,4 +1,4 @@
-rtt-update
-==========
+RTTs Update Site Project
+========================
 
-RTTs Update site
+Update Site: https://raw.githubusercontent.com/COelsner/rtt-update/master/
